@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<response>
+<?php
+$food=$_GET['food'];
+  if(($food=="member"))
+  {
+echo 'sadsadas';
+echo 'adasdasd';
+echo'wqewq';
+ }
+  
+  else 
+  {
+  echo "aint got ".$food;
+  }
+  ?>
+ </response>
